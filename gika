@@ -1,0 +1,7 @@
+<!docktype html>
+<body style="background-color:powderpink;">
+<h1 style="color:pink;"> Czy zostaniesz moją radziecką połówką?</h1>
+<img src="ussr.png" width="104" height="142">
+<button style="color:pink;">yes </button> <p style="color:pink:">nie</button>
+</body>
+</html>
